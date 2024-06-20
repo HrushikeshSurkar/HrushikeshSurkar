@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">Hi 👋, I'm Hrushikesh Surkar</h1>
-<h3 style="text-align: center;">A passionate frontend developer from India</h3>
-<p>
-  I am Hrushikesh, a Frontend Developer at <a href="https://www.greatplaceitservices.com/" target="_blank" rel="noopener noreferrer">GPIT</a> with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
-</p>
+# Hi 👋, I'm Hrushikesh Surkar
 
-<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="coding" align="right" width="40%" height="300px" />
+### A passionate frontend developer from India
+
+I am Hrushikesh, a Frontend Developer at [GPIT](https://www.greatplaceitservices.com/) with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
+
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="coding" align="right" width="40%" height="auto" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hrushikeshsurkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,7 +17,8 @@
   <li>📫 How to reach me <strong>hrushikeshsurkar@gmail.com</strong></li>
 </ul>
 
-<h3>Connect with me:</h3>
+### Connect with me:
+
 <p>
   <a href="https://linkedin.com/in/hrushikesh-surkar-0055611b6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -30,26 +31,27 @@
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
+### Languages and Tools:
+
 <p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="7%" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="7%" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="7%" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="7%" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="7%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="7%" />
 </p>
 
 <div style="clear: both;"></div>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshsurkar&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="45%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" width="45%" height="220px" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" width="45%" align="right" />
 </p>
 
 <p>
