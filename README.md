@@ -70,7 +70,7 @@
 </p>
 
 <p>
-  <img width="45%" align="center" height="280px" src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="45%" align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
