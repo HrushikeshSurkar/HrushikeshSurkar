@@ -4,8 +4,6 @@
   I am Hrushikesh, a Frontend Developer at <a href="https://www.greatplaceitservices.com/" target="_blank" rel="noopener noreferrer">GPIT</a> with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
 </p>
 
-
-
 <img align="right" alt="coding" width="auto" height="350px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left">
@@ -68,11 +66,11 @@
   </a>
 </p>
 <p>
-  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshsurkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshsurkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  <img width="49%" align="center" height="280px" src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="45%" align="center" height="280px" src="https://github-readme-stats.vercel.app/api?username=hrushikeshsurkar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
