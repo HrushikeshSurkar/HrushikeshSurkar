@@ -14,7 +14,7 @@ I’m Hrushikesh Surkar, a Junior UI Developer with 2+ years of experience worki
 <ul>
   <li>🌱 I’m currently learning <strong>Angular, React, Node.js, MongoDB, and Express</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://hrushikeshsurkar.github.io/hrushikesh-surkar-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a></li>
-  <li>💬 Ask me about <strong>React</strong></li>
+  <li>💬 Ask me about <strong>Angular</strong></li>
   <li>📫 How to reach me <strong>hrushikeshsurkar@gmail.com</strong></li>
 </ul>
 
