@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer from India
 
-I am Hrushikesh, a Frontend Developer at [GPIT](https://www.greatplaceitservices.com/) with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
+I am Hrushikesh, a Jr.UI Developer at [icedq](https://icedq.com/) with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
 
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="coding" align="right" width="40%" height="auto" />
 
@@ -11,7 +11,7 @@ I am Hrushikesh, a Frontend Developer at [GPIT](https://www.greatplaceitservices
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>React, Angular, Node.js, MongoDB, and Express</strong></li>
+  <li>🌱 I’m currently learning <strong>Angular, React, Node.js, MongoDB, and Express</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://hrushikeshsurkar.github.io/hrushikesh-surkar-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a></li>
   <li>💬 Ask me about <strong>React</strong></li>
   <li>📫 How to reach me <strong>hrushikeshsurkar@gmail.com</strong></li>
