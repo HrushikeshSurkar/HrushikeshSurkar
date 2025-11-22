@@ -27,7 +27,7 @@ I’m Hrushikesh Surkar, a Junior UI Developer with 2+ years of experience worki
   <a href="https://instagram.com/joy_of_learing" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/uczithelms_x6l7yiwgnkhtg" target="_blank">
+  <a href="https://www.youtube.com/@learn-with-hrushikesh-surkar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
