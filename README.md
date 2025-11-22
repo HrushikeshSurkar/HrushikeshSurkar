@@ -2,7 +2,8 @@
 
 ### A passionate frontend developer from India
 
-I am Hrushikesh, a Jr.UI Developer at [icedq](https://icedq.com/) with a Bachelor's degree in Computer Science and Engineering from RTM Nagpur University, Nagpur. I am passionate about exploring new technologies and solving real-life problems. I am dedicated to continuous learning and thrive in dynamic environments where I can apply my skills and creativity.
+I’m Hrushikesh Surkar, a Junior UI Developer with 2+ years of experience working with Angular. I began my career at [GPIT](https://greatplaceitservices.com/) in June 2023 and moved to [icedq](https://icedq.com/) in November 2024, where I currently focus on building clean, scalable, and efficient front-end applications. I hold a Bachelor’s degree in Computer Science & Engineering from RTM Nagpur University.
+
 
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="coding" align="right" width="40%" height="auto" />
 
